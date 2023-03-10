@@ -1,0 +1,8 @@
+C:\Users\junai\OneDrive\Desktop\C#\practice-3\practice_3\practice_3\bin\Debug\practice_3.exe.config
+C:\Users\junai\OneDrive\Desktop\C#\practice-3\practice_3\practice_3\bin\Debug\practice_3.exe
+C:\Users\junai\OneDrive\Desktop\C#\practice-3\practice_3\practice_3\bin\Debug\practice_3.pdb
+C:\Users\junai\OneDrive\Desktop\C#\practice-3\practice_3\practice_3\obj\Debug\practice_3.csproj.AssemblyReference.cache
+C:\Users\junai\OneDrive\Desktop\C#\practice-3\practice_3\practice_3\obj\Debug\practice_3.csproj.SuggestedBindingRedirects.cache
+C:\Users\junai\OneDrive\Desktop\C#\practice-3\practice_3\practice_3\obj\Debug\practice_3.csproj.CoreCompileInputs.cache
+C:\Users\junai\OneDrive\Desktop\C#\practice-3\practice_3\practice_3\obj\Debug\practice_3.exe
+C:\Users\junai\OneDrive\Desktop\C#\practice-3\practice_3\practice_3\obj\Debug\practice_3.pdb
